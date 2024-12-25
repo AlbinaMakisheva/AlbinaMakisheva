@@ -1,6 +1,19 @@
-## Hi there 👋
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AlbinaMakisheva&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbinaMakisheva&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+## Welcome to my profile
+
+<table>
+  <tr>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com/?user=AlbinaMakisheva&theme=dark" alt="GitHub Streak Stats">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbinaMakisheva&layout=compact&theme=vision-friendly-dark" alt="Top Languages">
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
